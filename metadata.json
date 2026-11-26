@@ -1,0 +1,6 @@
+{
+  "name": "BioPulse Lab — 3D Wearable Health Monitoring Simulator",
+  "description": "Interactive 3D physiological wearable health monitoring simulator and scientific learning platform for students, grounded in 2021–2026 biomedical literature.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
